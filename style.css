@@ -2,22 +2,22 @@ body{
   margin: 0;
 }
 
-title{
+h1#title{
 	// Todo, we want a fancy title.
 }
 
-planet{
+h3#planet{
 	// todo, we got secondary titles for the planets
 }
 
-.tabHead{
+th#tabHead{
 	// Todo, this is for the headers of the table
 }
 
-.planetData{
+td#planetData{
 	// Todo, this is for the data of planets
 }
 
-backdrop{
+div#backdrop{
 	// Todo, here for the background
 }
