@@ -2,6 +2,10 @@ body{
   margin: 0;
 }
 
+title{
+	// Todo, we want a fancy title.
+}
+
 .tabHead{
 	// Todo, this is for the headers of the table
 }
