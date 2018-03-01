@@ -2,6 +2,10 @@ body{
   margin: 0;
 }
 
-.header{
+.tabHead{
+	// Todo, this is for the headers of the table
+}
+
+.planetData{
 	// Todo, this is for the headers of the table
 }
