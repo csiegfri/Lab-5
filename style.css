@@ -34,6 +34,7 @@ th{
   text-decoration: underline;
   font-size: 1.5em;
   font-weight: bold;
+  
 }
 
 td{
@@ -48,6 +49,6 @@ td{
 	text-align: center;
 	color: #ffffff;
 	background-color: #fdc358;
-	width: 40%
-	
+	width: 40%;
+	text-shadow: 3px 2px red;	
 }
