@@ -6,7 +6,7 @@ body{
   font-family: 'Patua One';
 }
 
-h1 {
+#title {
   color: #05377b;
   text-decoration: underline;
   font-size: 3em;
