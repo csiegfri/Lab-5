@@ -31,23 +31,21 @@ img.planet{
 }
 
 th{
-  color: white;
   text-decoration: underline;
   font-size: 1.5em;
   font-weight: bold;
-  background-color: #042c62
 }
 
 td{
-  color: white;
   font-size: 1em;
   font-weight: normal;
-  background-color: #042c62
 }
 
 .jupTable{
 	margin: 0px;
 	padding: 0px;
 	float: left;
+	background-color: #FDC358;
+	color = #FFFFFF;
 	width = 40%;
 }
