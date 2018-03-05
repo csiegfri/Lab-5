@@ -66,3 +66,8 @@ table{
   text-shadow: 3px 2px black;
   background-color: #B7C3FF;
 }
+
+.default{
+	color: #ffffff;
+	background-color: #000000;
+}
