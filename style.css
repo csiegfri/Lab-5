@@ -35,13 +35,16 @@ td{
   font-weight: normal;
 }
 
-.jupTable{
+table{
 	margin: 0px;
 	padding: 0px;
 	float: left;
 	text-align: center;
-	color: #ffffff;
-	background-color: #fdc358;
-	width: 40%;
-	text-shadow: 3px 2px red;	
+	width: 100%;
+}
+
+.jupiter{
+  color: #ffffff;
+  text-shadow: 3px 2px red;
+  background-color: #fdc358;
 }
