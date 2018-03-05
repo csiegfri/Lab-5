@@ -28,7 +28,10 @@ img.planet{
 }
 
 th{
-	// Todo, this is for the headers of the table
+  color: #042c62;
+  text-decoration: underline;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
 td{
