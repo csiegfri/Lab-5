@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Patua%20One');
+@import url('https://fonts.googleapis.com/css?family=Patua One');
 
 body{
   margin: 0;
   background-color: black;
+  font-family: 'Patua One';
 }
 
 h1 {
