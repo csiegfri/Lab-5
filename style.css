@@ -36,7 +36,10 @@ th{
 }
 
 td{
-	// Todo, this is for the data of planets
+  color: white;
+  font-size: 1em;
+  font-weight: normal;
+  background-color: #042c62
 }
 
 div#backdrop{
