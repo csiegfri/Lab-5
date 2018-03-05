@@ -12,22 +12,15 @@ h1 {
   font-size: 3em;
   font-weight: bold;
   letter-spacing: 2px;
-  
-}
-
-h3.planet {
-  color: #05377b;
-  font-size: 2em;
-  font-weight: bold;
-  text-decoration: underline;
   text-transform: uppercase;
-  letter-spacing: 1px;
 }
 
 img.planet{
   float: left;
   margin: 0px;
   padding: 0px;
+  width: 25%;
+  height: 400px
 }
 
 th{
