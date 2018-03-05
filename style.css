@@ -44,7 +44,7 @@ table{
 }
 
 .jupiter{
-  color: #ffffff;
+  color: #000000;
   text-shadow: 3px 2px red;
   background-color: #fdc358;
 }
@@ -63,7 +63,7 @@ table{
 
 .uranus{
   color: #000000;
-  text-shadow: 3px 2px black;
+  text-shadow: 3px 2px white;
   background-color: #B7C3FF;
 }
 
