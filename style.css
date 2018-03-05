@@ -2,19 +2,24 @@ body{
   margin: 0;
 }
 
-h1#title{
-	// Todo, we want a fancy title.
+h1 {
+  color: #05377b;
+  text-decoration: underline;
+  font-size: 3em;
+  font-weight: bold;
+  
 }
 
-h3#planet{
-	// todo, we got secondary titles for the planets
+.planet {
+  color: #05377b;
+  
 }
 
-th#tabHead{
+th{
 	// Todo, this is for the headers of the table
 }
 
-td#planetData{
+td{
 	// Todo, this is for the data of planets
 }
 
