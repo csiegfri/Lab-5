@@ -44,3 +44,10 @@ td{
   font-weight: normal;
   background-color: #042c62
 }
+
+.jupTable{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width = 40%;
+}
