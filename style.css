@@ -45,7 +45,9 @@ td{
 	margin: 0px;
 	padding: 0px;
 	float: left;
-	background-color: #FDC358;
-	color = #FFFFFF;
-	width = 40%;
+	text-align: center;
+	color: #ffffff;
+	background-color: #fdc358;
+	width: 40%
+	
 }
